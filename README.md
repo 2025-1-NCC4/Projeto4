@@ -22,7 +22,6 @@ Vide tutoriais do PI.
 
 <p align="center">
   Este projeto tem como objetivo apresentar uma demonstração interativa de dados macroeconômicos por meio de gráficos informativos e comparativos. A aplicação coleta e exibe indicadores econômicos relevantes, permitindo ao usuário visualizar a evolução, comparar variações entre diferentes dados (como IPCA, IPA-M, Cesta Básica e IPCA de Alimentos e Bebidas) e analisar a correlação entre eles.
-
  O sistema busca facilitar a interpretação de tendências econômicas, contribuindo para a compreensão do impacto que certos indicadores exercem sobre outros, utilizando ferramentas de visualização e técnicas estatísticas que evidenciem possíveis padrões e influências entre as variáveis analisadas.
 </p>
 
