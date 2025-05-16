@@ -14,40 +14,46 @@ Vide tutoriais do PI.
 
 ## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Marcelo Henriuqe de Souza</a>, <a href="https://www.linkedin.com/in/victorbarq/">Felipe</a>, 
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Marcelo Henriuqe de Souza</a>, <a href="https://www.linkedin.com/in/victorbarq/">Felipe  Carvalho Paleari</a>, 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Paula Sanchez Astorino</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino Gomes</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+  Este projeto tem como objetivo apresentar uma demonstração interativa de dados macroeconômicos por meio de gráficos informativos e comparativos. A aplicação coleta e exibe indicadores econômicos relevantes, permitindo ao usuário visualizar a evolução, comparar variações entre diferentes dados (como IPCA, IPA-M, Cesta Básica e IPCA de Alimentos e Bebidas) e analisar a correlação entre eles.
+
+ O sistema busca facilitar a interpretação de tendências econômicas, contribuindo para a compreensão do impacto que certos indicadores exercem sobre outros, utilizando ferramentas de visualização e técnicas estatísticas que evidenciem possíveis padrões e influências entre as variáveis analisadas.
 </p>
-
-
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
 
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
+  |-->Enrega1<br>
+  &emsp;|Análise Inferencial de Dados<br>
+  &emsp;|Contabilidade e Finanças<br>
+  &emsp;|ES-AS<br>
+  &emsp;|Projeto Interdisciplinar - Ciência de Dados<br>
+  |-->Enrega 2<br>
+  &emsp;|Análise Inferencial de Dados<br>
+  &emsp;|Contabilidade e Finanças<br>
+  &emsp;|ES-AS<br>
+  |-->Entrega 3<br>
+  &emsp;|Análise Inferencial de Dados<br>
+  &emsp;|Contabilidade e Finanças<br>
+  &emsp;|ES-AS<br>
 |-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
+  |-->Entrega 1<br>
+    &emsp;|-->Backend<br>
+    &emsp;|-->Frontend<br>
+  |-->Entrega 2<br>
+    &emsp;|-->Backend<br>
+    &emsp;|-->Frontend<br>
+  |-->Entrega 3<br>
+    &emsp;|-->Backend<br>
+    &emsp;|-->Frontend<br>
 |readme.md<br>
 
 A pasta raiz contem dois arquivos que devem ser alterados:
@@ -91,16 +97,14 @@ Encontre o index.html na pasta executáveis e execute-o como uma página WEB (at
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
-
 Para abrir este projeto você necessita das seguintes ferramentas:
+
 
 -<a href="https://godotengine.org/download">GODOT</a>
 
 ```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
+  !pip install python-bcb
+  !pip install dash
 ```
 
 ## 📋 Licença/License
