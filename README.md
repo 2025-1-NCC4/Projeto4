@@ -16,7 +16,7 @@ Vide tutoriais do PI.
 
 ## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Marcelo Henriuqe de Souza</a>, <a href="https://www.linkedin.com/in/victorbarq/">Felipe  Carvalho Paleari</a>, 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Paula Sanchez Astorino</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino Gomes</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Paula Sanchez Astorino</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino Gomes</a>
 
 ## Descrição
 
