@@ -29,31 +29,31 @@ Vide tutoriais do PI.
 
 -Raiz<br>
 |<br>
-|-->documentos<br>
-  |-->Enrega1<br>
+  |-->documentos<br>
+    |-->Enrega1<br>
   &emsp;|Análise Inferencial de Dados<br>
   &emsp;|Contabilidade e Finanças<br>
   &emsp;|ES-AS<br>
   &emsp;|Projeto Interdisciplinar - Ciência de Dados<br>
-  |-->Enrega 2<br>
+    |-->Enrega 2<br>
   &emsp;|Análise Inferencial de Dados<br>
   &emsp;|Contabilidade e Finanças<br>
   &emsp;|ES-AS<br>
-  |-->Entrega 3<br>
+    |-->Entrega 3<br>
   &emsp;|Análise Inferencial de Dados<br>
   &emsp;|Contabilidade e Finanças<br>
   &emsp;|ES-AS<br>
-|-->src<br>
-  |-->Entrega 1<br>
+  |-->src<br>
+    |-->Entrega 1<br>
     &emsp;|-->Backend<br>
     &emsp;|-->Frontend<br>
-  |-->Entrega 2<br>
+    |-->Entrega 2<br>
     &emsp;|-->Backend<br>
     &emsp;|-->Frontend<br>
-  |-->Entrega 3<br>
+    |-->Entrega 3<br>
     &emsp;|-->Backend<br>
     &emsp;|-->Frontend<br>
-|readme.md<br>
+  |readme.md<br>
 
 ## 🛠 Instalação
 
