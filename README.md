@@ -10,11 +10,11 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Nome do Projeto: Cesta View
 
-## Nome do Grupo
+## Nome do Grupo: Cesta Viewers
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Marcelo Henrique de Souza</a>, <a href="https://www.linkedin.com/in/victorbarq/">Felipe  Carvalho Paleari</a>, 
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Marcelo Henrique de Souza</a>, <a href="https://www.linkedin.com/in/victorbarq/">Felipe  Carvalho Paleari</a> 
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Paula Sanchez Astorino</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino Gomes</a>
 
@@ -57,28 +57,10 @@ Vide tutoriais do PI.
 
 ## 🛠 Instalação
 
-<b>Android:</b>
+<b>Web</b>
 
-Faça o Download do JOGO.apk no seu celular.
-Execute o APK e siga as instruções de seu telefone.
+<https://dashboard-pi.onrender.com/>
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
@@ -88,8 +70,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 -<a href="https://godotengine.org/download">GODOT</a>
 
 ```sh
-  !pip install python-bcb
-  !pip install dash
+  pip install -r requirements.txt
 ```
 
 ## 📋 Licença/License
@@ -104,5 +85,7 @@ Aqui estão as referências usadas no projeto.
 3. <https://chooser-beta.creativecommons.org/>
 4. <https://freesound.org/>
 5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+6. <https://plotly.com/python/>
+7. <https://www.bcb.gov.br/>
+8. <https://render.com/>
 
