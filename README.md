@@ -24,7 +24,7 @@
 -Raiz<br>
 |<br>
   |-->documentos<br>
-    |-->Enrega1<br>
+  &emsp;|-->Enrega1<br>
   &emsp;|Análise Inferencial de Dados<br>
   &emsp;|Contabilidade e Finanças<br>
   &emsp;|ES-AS<br>
@@ -68,7 +68,7 @@ Para abrir este projeto você necessita das seguintes ferramentas:
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+<a href="https://dashboard-pi.onrender.com">Cesta View</a> © 2025 by <a href="https://github.com/2025-1-NCC4/Projeto4">Felipe Carvalho, Marcelo Henrique</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## 🎓 Referências
 
