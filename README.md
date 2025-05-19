@@ -8,7 +8,7 @@
 
 ## Nome do Grupo: Cesta Viewers
 
-## Integrantes: <a href="https://www.linkedin.com/in/marcelo-souza-36403b260/">Marcelo Henrique de Souza</a>, <a href="www.linkedin.com/in/felipecarpal/">Felipe  Carvalho Paleari</a> 
+## Integrantes: <a href="https://www.linkedin.com/in/marcelo-souza-36403b260/">Marcelo Henrique de Souza</a>, <a href="https://www.linkedin.com/in/felipe-carvalho-paleari-492741287/">Felipe  Carvalho Paleari</a> 
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/paula-astorino-432b5812a/">Paula Sanchez Astorino</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>
 
