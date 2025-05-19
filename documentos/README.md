@@ -51,7 +51,7 @@
 
 ### Análise Inferencial de Dados
 
-<b>Marcelo Henrique de Souza- [Trabalho/Documento]()</b>
+<b>Marcelo Henrique de Souza- [Trabalho/Documento](https://github.com/2025-1-NCC4/Projeto4/blob/main/documentos/Entrega%203/Análise%20Inferencial%20de%20Dados/Teste%20de%20Hipótese.pdf)</b>
 <br><br>
 
 ### Contabilidade e Finanças
@@ -61,7 +61,7 @@
 
 ### ES-AS
 
-<b>Marcelo Henrique de Souza- [Trabalho/Documento]()</b>
+<b>Marcelo Henrique de Souza- [Trabalho/Documento](https://github.com/2025-1-NCC4/Projeto4/blob/main/documentos/Entrega%203/ES-AS/Testes-E-Praticas-De-Qualidade.pdf)</b>
 <br><br>
 
 ### Projeto Interdisciplinar - Ciência de Dados
