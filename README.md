@@ -8,9 +8,9 @@
 
 ## Nome do Grupo: Cesta Viewers
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Marcelo Henrique de Souza</a>, <a href="https://www.linkedin.com/in/victorbarq/">Felipe  Carvalho Paleari</a> 
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Marcelo Henrique de Souza</a>, <a href="www.linkedin.com/in/felipecarpal/">Felipe  Carvalho Paleari</a> 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/victorbarq/">Paula Sanchez Astorino</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/">Eduardo Savino Gomes</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/professorrodnil/">Rodnil da Silva Moreira Lisboa</a>, <a href="https://www.linkedin.com/in/paula-astorino-432b5812a/">Paula Sanchez Astorino</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>
 
 ## Descrição
 
@@ -25,29 +25,34 @@
 |<br>
   |-->documentos<br>
   &emsp;|-->Enrega1<br>
-  &emsp;|Análise Inferencial de Dados<br>
-  &emsp;|Contabilidade e Finanças<br>
-  &emsp;|ES-AS<br>
-  &emsp;|Projeto Interdisciplinar - Ciência de Dados<br>
-    |-->Enrega 2<br>
-  &emsp;|Análise Inferencial de Dados<br>
-  &emsp;|Contabilidade e Finanças<br>
-  &emsp;|ES-AS<br>
-    |-->Entrega 3<br>
-  &emsp;|Análise Inferencial de Dados<br>
-  &emsp;|Contabilidade e Finanças<br>
-  &emsp;|ES-AS<br>
+  &emsp;&emsp;|Análise Inferencial de Dados<br>
+  &emsp;&emsp;|Contabilidade e Finanças<br>
+  &emsp;&emsp;|ES-AS<br>
+  &emsp;&emsp;|Projeto Interdisciplinar - Ciência de Dados<br>
+  &emsp;|-->Enrega 2<br>
+  &emsp;&emsp;|Análise Inferencial de Dados<br>
+  &emsp;&emsp;|Contabilidade e Finanças<br>
+  &emsp;&emsp;|ES-AS<br>
+  &emsp;&emsp;|Projeto Interdisciplinar - Ciência de Dados<br>
+  &emsp;|-->Entrega 3<br>
+  &emsp;&emsp;|Análise Inferencial de Dados<br>
+  &emsp;&emsp;|Contabilidade e Finanças<br>
+  &emsp;&emsp;|ES-AS<br>
+  &emsp;&emsp;|Projeto Interdisciplinar - Ciência de Dados<br>
+  &emsp;|Documento - Projeto de Extensão - COM Empresa.docx
+  &emsp;|readme.md<br>
+  |-->imagens<br>
   |-->src<br>
-    |-->Entrega 1<br>
-    &emsp;|-->Backend<br>
-    &emsp;|-->Frontend<br>
-    |-->Entrega 2<br>
-    &emsp;|-->Backend<br>
-    &emsp;|-->Frontend<br>
-    |-->Entrega 3<br>
-    &emsp;|-->Backend<br>
-    &emsp;|-->Frontend<br>
-  |readme.md<br>
+  &emsp;|-->Entrega 1<br>
+  &emsp;&emsp;|-->Backend<br>
+  &emsp;&emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 2<br>
+  &emsp;&emsp;|-->Backend<br>
+  &emsp;&emsp;|-->Frontend<br>
+  &emsp;|-->Entrega 3<br>
+  &emsp;&emsp;|-->Backend<br>
+  &emsp;&emsp;|-->Frontend<br>
+  &emsp;|readme.md<br>
 
 ## 🛠 Instalação
 
